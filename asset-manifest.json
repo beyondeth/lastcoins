@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/lastcoins/static/css/main.5f527649.css",
+    "main.js": "/lastcoins/static/js/main.faf5dba1.js",
+    "index.html": "/lastcoins/index.html",
+    "main.5f527649.css.map": "/lastcoins/static/css/main.5f527649.css.map",
+    "main.faf5dba1.js.map": "/lastcoins/static/js/main.faf5dba1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5f527649.css",
+    "static/js/main.faf5dba1.js"
+  ]
+}
